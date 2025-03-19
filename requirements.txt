@@ -1,0 +1,5 @@
+groq==0.20.0
+python-dotenv==1.0.1
+regex==2024.11.6
+requests==2.32.3
+tavily-python==0.5.1
